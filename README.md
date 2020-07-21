@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# WEB503
 
-You can use the [editor on GitHub](https://github.com/Rory-Folster/WEB503-Rory-Folster/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a site preview for WEB503, that shows a table of my assessments, due dates and how im going to approach them.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rory-Folster/WEB503-Rory-Folster/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Assessment 1, LABS;
+| Lab Marking Schedule | 2-40%, 3-60% | 4-80%, 5-100%  |
+| 0-1 | 2-3 | 4-5 |
+| not enough evidence | satisfactory evidence | Quality evidence |
