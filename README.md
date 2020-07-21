@@ -14,9 +14,16 @@ This is a site preview for WEB503, that shows a table of my assessments, due dat
 
 
 
+
+
+
 ## Assessment 2, Portfolio Web App (17th Aug - 21st Sep) [100 marks];
 
 Assessment is worth 25%. You are required to build a static website using a given generator by the tutor. More details will be provided in the assessment two handout
+
+
+
+
 
 
 
