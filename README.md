@@ -1,6 +1,6 @@
 # WEB503
 
-This is a site preview for WEB503, that shows a table of my assessments, due dates and how im going to approach them.
+* This is a site preview for WEB503, that shows a table of my assessments, due dates and how im going to approach them.
 
 
 
